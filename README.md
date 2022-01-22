@@ -2,7 +2,7 @@
 - 👀 I’m interested in education systems, books, people and dogs
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data projects
-- 📫 You can reach me on Discord @BlackBecca
+- 📫 You can reach me on Discord @BlackBecca#3349
 
 <!---
 BlackBecca/BlackBecca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
