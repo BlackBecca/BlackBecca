@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @BlackBecca
-- 👀 I’m interested in education systems, books, people and dogs
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data projects
 - 📫 You can reach me on Discord @BlackBecca#3349
 
 <!---
